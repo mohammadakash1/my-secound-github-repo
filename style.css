@@ -1,0 +1,12 @@
+h2{
+    color: blue;
+    background-color: brown;
+    margin: 10px;
+    padding: 5px;
+    border:solid salmon;
+    text-align: center;
+
+}
+p{
+    background-color: aqua;
+}
